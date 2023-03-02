@@ -1,2 +1,2 @@
-# PrepCourse-Henry
+# PrepCouse-Henry
 Repositorio de prueba
